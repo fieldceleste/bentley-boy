@@ -14,17 +14,19 @@
 h1 {
     color:purple;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 body {
-    color:blueviolet;
+    color:rgb(33, 79, 231);
 }
 h3 {
     font-style: italic;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 p {
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
